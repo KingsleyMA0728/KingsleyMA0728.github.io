@@ -1,17 +1,29 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+您好！以下是我的个人简介： <br/>
+<span> &nbsp; </span> <span> &nbsp; </span> <span> &nbsp; </span> <span> &nbsp; </span>我是来自武汉大学经济管理学院西方经济学专业的博士研究生（北京大学新结构经济学专项计划联合培养），研究方向为新结构经济学、发展经济学。学术成果发表于《中国工业经济》、《产业经济评论》、Managerial and Decision Economics等国内外重要期刊，多次在中国经济学年会、中国社会学年会、17thEAEA等国内外一流学会上汇报论文，参研国家级重大社科、自科面上项目、自科青年基金三项，主持完成校级课题三项，带领团队在中国国际大学生创新创业大赛、中国研究生金融科技创新大赛、“正大杯”全国大学生市场调查与分析大赛、“挑战杯”全国大学生课外学术科技作品竞赛等高水平赛事中获国家级奖项四项，省级奖项十余项，曾任武汉理工大学校团委组织部部长，中南财经政法大学校团委学生副书记，个人获国家奖学金、一等奖学金、校创新创业先进个人、校模范专兼职团干、校最美团支书标兵、院校最高荣誉称号等荣誉与奖励十余项。
 
-#### Contact
+#### 个人邮箱
 
-Email: senli[at]fas.harvard.edu
+Email: Kairongma@163.com 
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+#### 教育背景
+2024.9-至今   经济学博士 武汉大学 西方经济学专业（新结构专项） \
+2021.9-2024.6 经济学硕士 中南财经政法大学 国民经济学专业 \
+2017.9-2021.6 经济学学士 武汉理工大学 国际经济与贸易专业 
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+#### 研究兴趣
+- 新结构经济学 
+- 数字经济与结构变迁 
+- 国际贸易与全球价值链
+
+#### 荣誉奖励
+
+ 
+2021.09-2023.09 国家奖学金，校一等奖学金（前20%，3次） \
+2021.09-2023.09 校优秀研究生，模范专兼职团干，研究生学术先进个人等多次 \
+2017.09-2021.06 校优秀毕业生、校最美团支书、校创新创业先进个人等多次
+
+
 
