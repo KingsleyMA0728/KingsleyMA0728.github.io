@@ -1,6 +1,7 @@
 
 #### SPSS专题
 * SPSS实操（上）：数据处理与统计描述 [链接](https://mp.weixin.qq.com/s/pwP4G6NTnkz9yAMFQKl07w)
+* SPSS实操（下）：主成分分析的基本原理与方法 [链接](https://mp.weixin.qq.com/s/pwP4G6NTnkz9yAMFQKl07w)
 
 #### STATA专题
 * STATA实操（上）：OLS基本原理与基准回归 [链接](https://mp.weixin.qq.com/s/pwP4G6NTnkz9yAMFQKl07w)
