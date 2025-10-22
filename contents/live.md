@@ -1,41 +1,13 @@
 
-写在前面： <br/>
-<span> &nbsp; </span> <span> &nbsp; </span> <span> &nbsp; </span> <span> &nbsp; </span>当初设计这个版块的本意是想在充满浓厚的工作氛围的网页上，加入一些我的生活气息。特别是，记录这一路上许多提携和托举过我的老师、前辈和朋友们。他们有一部分和我取得了亮点的成果，已经出现在前面的版块中。但仍有许多对我重要的人，对我的成长产生了巨大的影响。一些对他们的感激，就悄悄地留在这里。
+#### SPSS专题
+* SPSS实操（上）：数据处理与统计描述 [链接](https://mp.weixin.qq.com/s/pwP4G6NTnkz9yAMFQKl07w)
 
+#### STATA专题
+* STATA实操（上）：OLS基本原理与基准回归 [链接](https://mp.weixin.qq.com/s/pwP4G6NTnkz9yAMFQKl07w)
+* STATA实操（下）：稳健性检验与机制分析 [链接](https://mp.weixin.qq.com/s/pwP4G6NTnkz9yAMFQKl07w)
+* 因果推断（上）：经典双重差分 [链接](https://mp.weixin.qq.com/s/pwP4G6NTnkz9yAMFQKl07w)
+* 因果推断（下）：双重差分前沿 [链接](https://mp.weixin.qq.com/s/pwP4G6NTnkz9yAMFQKl07w)
 
-#### 珞珈翠微心
-- 你要用时间去证明你的优秀...
-
-- 与复旦大学郑磊老师合影
-![与复旦大学郑磊老师合影](static/assets/img/310.png)
-
-#### 青出于澜·中南财
-- 与硕导王文晓老师合影
-![与硕导王文晓老师合影](static/assets/img/39.png)
-
-#### 追求卓越·理工大
-
-- 与本科班主任、毕业论文指导老师黄艳希老师合影
-![与本科班主任、毕业论文指导老师黄艳希老师合影](static/assets/img/38.png)
-
-- 与本科辅导员叶双龙老师合影
-![与本科辅导员叶双龙老师合影](static/assets/img/37.png)
-
-- 与黄蕙萍老师合影
-![与黄蕙萍老师合影](static/assets/img/36.png)
-
-- 与余谦老师合影
-![与余谦老师合影](static/assets/img/35.png)
-
-- 国际经济与贸易2017级1班合影
-![国际经济与贸易2017级1班合影](static/assets/img/34.png)
-
-- 与何超学长、金宏学妹合影
-![与何超学长、金宏学妹合影](static/assets/img/33.png)
-注：分别任2020届校团委组织部指导老师、2021届校团委组织部部长。
-
-- 一张具有重要意义的照片
-![一张具有重要意义的照片](static/assets/img/32.png)
-
-- 2020届校团委各部门部长合影
-![2020届校团委各部门部长合影](static/assets/img/31.png)
+#### Mplus专题
+* Mplus实操（上）：SEM基本原理与模型构建 [链接](https://mp.weixin.qq.com/s/pwP4G6NTnkz9yAMFQKl07w)
+* Mplus实操（下）：中介效应与调节效应分析 [链接](https://mp.weixin.qq.com/s/pwP4G6NTnkz9yAMFQKl07w)
