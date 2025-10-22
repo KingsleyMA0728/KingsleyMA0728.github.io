@@ -19,13 +19,13 @@ Email: KingsleyMA0728@163.com
 2020 金融理论与实践（北大核心、AMI扩展，IF：4.418）
 
 #### 学术会议
-2023.12 2023年中国经济学年会   \
-2023.12 第六届未来经济学家论坛 \
-2023.07 2023年中国社会学年会  \
-2023.06 The 2023 Chinese Economists Society Annual Conference \
-2023.05 The 2023 Taipei Conference on Regional Science \
-2022.08 The 17th East Asian Economic Association International Convention  \
-2022.06 The 2023 Chinese Economists Society Annual Conference
+2023 第二十三届中国经济学年会  \
+2023 第六届未来经济学家论坛 \
+2023 第十二届中国社会学年会  \
+2023 The 2023 Chinese Economists Society Annual Conference \
+2023 The 2023 Taipei Conference on Regional Science \
+2022 The 17th East Asian Economic Association International Convention  \
+2022 The 2023 Chinese Economists Society Annual Conference
 
 #### 科研项目
 2024 国家社会科学基金重大项目，参研 \
