@@ -1,63 +1,11 @@
+#### 科研论文入门
 
+* 2025版中文期刊 [链接](https://mp.weixin.qq.com/s/pwP4G6NTnkz9yAMFQKl07w)
 
+* 2025版英文期刊 [链接](https://mp.weixin.qq.com/s/pwP4G6NTnkz9yAMFQKl07w)
 
-#### 社会兼职
-2025.09-2026.01 武汉大学经济与管理学院 微观经济学助教 <br/>
-2022.09-至今 武汉同创教育科技集团(金领学社) 教研合伙人
-#### 竞赛团队
+#### 科研项目入门
 
-* 2022年竞赛团队
+* 2025版博文杯 [链接](https://mp.weixin.qq.com/s/pwP4G6NTnkz9yAMFQKl07w)
 
-![2022年竞赛团队](static/assets/img/11.png)
-
-【获奖赛事】获挑战杯省级银奖等。
-
-
-* 2021年竞赛团队
-
-
-![2021年竞赛团队](static/assets/img/12.png)
-
-
-
-【获奖赛事】获金融科技国家级铜奖、正大杯国家级铜奖、挑战杯省级铜奖等。
-
-* 2020年竞赛团队
-
-![2020年竞赛团队](static/assets/img/13.png)
-
-【获奖赛事】多次获互联网+国家级铜奖等
-
-
-
-#### 竞赛成果
-- 2025 中国国际大学生创新大赛（指导老师） 国家级银奖
-- 2023 第一届中国研究生金融科技创新大赛（排序第一） 国家级铜奖
-- 2022 第十二届“正大杯”全国大学生市场调查与分析大赛 （排序第一）国家级铜奖
-- 2021 第七届中国国际“互联网+”大学生创新创业大赛 国家级铜奖
-- 2019 第六届中国国际“互联网+”大学生创新创业大赛（排序第二） 国家级铜奖
-- 其他省级获奖：中国计算机大赛网络技术挑战赛（省级金奖），“挑战杯”全国大学生课外学术科技作品竞赛（省级银奖），“挑战杯”中国大学生创业计划竞赛（省级铜奖）等多项
-
-
-#### 学生工作
-
-
-2021.09-2022.06 任校团委副书记（协管创新创业、社会实践工作）
-<img src="static/assets/img/21.png" style="max-width: 100%; height: auto;">
-
-2020.09-2021.06 任校团委组织部部长
-<img src="static/assets/img/22.png" style="max-width: 100%; height: auto;">
-
-2019.09-2020.06 任校团委组织部副部长（团员发展中心主任）
-<img src="static/assets/img/23.png" style="max-width: 100%; height: auto;">
-
-2018.09-2019.06 任校团委组织部团籍管理中心副主任
-<img src="static/assets/img/24.png" style="max-width: 100%; height: auto;">
-
-2017.10-2018.09 任校团委组织部部员
-<img src="static/assets/img/25.png" style="max-width: 100%; height: auto;">
-
-2017.10-2021.09 任国贸1701团支部书记
-<img src="static/assets/img/26.png" style="max-width: 100%; height: auto;">
-
-集体获校五四团支部、校标兵班集体；个人获校最美团支部标兵，校优秀学生干部等荣誉称号。
+* 2025版大创 [链接](https://mp.weixin.qq.com/s/pwP4G6NTnkz9yAMFQKl07w)

@@ -10,7 +10,7 @@ Email: KingsleyMA0728@163.com
 #### 研究兴趣
 新结构经济学 \
 数字经济与结构变迁 \
-国际贸易与全球价值链 \
+国际贸易与全球价值链 
 
 #### 学术成果
 2025 中国工业经济（CSSCI）\
@@ -19,11 +19,11 @@ Email: KingsleyMA0728@163.com
 2020 金融理论与实践（CSSCI）
 
 #### 学术会议
-2023.12 2023年中国经济学年会  \                                                               
-2023.12 第六届未来经济学家论坛   \
-2023.07 2023年中国社会学年会   \                                                       
-2023.06 The 2023 Chinese Economists Society Annual Conference    \                                   
-2023.05 The 2023 Taipei Conference on Regional Science   \                                        
+2023.12 2023年中国经济学年会   \
+2023.12 第六届未来经济学家论坛 \
+2023.07 2023年中国社会学年会  \
+2023.06 The 2023 Chinese Economists Society Annual Conference \
+2023.05 The 2023 Taipei Conference on Regional Science \
 2022.08 The 17th East Asian Economic Association International Convention  \
 2022.06 The 2023 Chinese Economists Society Annual Conference
 
@@ -38,8 +38,8 @@ Email: KingsleyMA0728@163.com
 2025 中国国际大学生创新大赛（指导老师） 国家级银奖  \
 2023 第一届中国研究生金融科技创新大赛（排序第一） 国家级铜奖  \
 2022 第十二届“正大杯”全国大学生市场调查与分析大赛 （排序第一）国家级铜奖  \
-2021第七届中国国际“互联网+”大学生创新创业大赛 国家级铜奖  \
-2019第六届中国国际“互联网+”大学生创新创业大赛（排序第二） 国家级铜奖  \
+2021 第七届中国国际“互联网+”大学生创新创业大赛 国家级铜奖  \
+2019 第六届中国国际“互联网+”大学生创新创业大赛（排序第二） 国家级铜奖  \
 其他省级获奖：中国计算机大赛网络技术挑战赛（省级金奖），“挑战杯”全国大学生课外学术科技作品竞赛（省级银奖），“挑战杯”中国大学生创业计划竞赛（省级铜奖）
 
 #### 荣誉奖励
