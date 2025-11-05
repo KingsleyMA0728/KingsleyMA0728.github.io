@@ -29,14 +29,13 @@
 #### 计量经济学
 
 * 教学材料 \
-参考教材： 伍德里奇《计量经济学导论》（第6版）[百度云盘](https://pan.baidu.com/s/1sHV2eU_7M4SOCPGT_SYOjw) \
+参考教材： 庞皓《计量经济学》（第四版）[百度云盘](https://pan.baidu.com/s/1G0gDFehx8k21kq5JqhPDmQ) \
 参考教材：伍德里奇《计量经济学导论》（第6版）[百度云盘](https://pan.baidu.com/s/1sHV2eU_7M4SOCPGT_SYOjw) \
-教学大纲: 
-导论PPT: 
+教学大纲
+导论PPT
 
 * 课堂笔记 
 
 * 知识扩展 \
-中级教材：范里安《微观经济学：现代观点（第九版）》 [百度云盘](https://pan.baidu.com/s/1ZFbEiBY3wgwY8NagX0RMhA) \
+中级教材：李子奈 潘文卿《计量经济学》（第4版） [百度云盘](https://pan.baidu.com/s/1C8etG6SSgkhozqXGU3V49Q) \
 高级教材：洪永淼《高级计量经济学》[百度云盘](https://pan.baidu.com/s/1sznnGn7xt_x4VvXBzwXl_Q) 
-
