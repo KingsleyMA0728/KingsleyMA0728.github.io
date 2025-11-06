@@ -16,7 +16,7 @@
 * 教学材料 \
 参考教材：马工程《西方经济学（第二版）》下册 [百度云盘](https://pan.baidu.com/s/1l2viNl67XTDXYdOFXQ_QRw) \
 参考教材：曼昆《经济学原理》（宏观经济学分册）（第8版）[百度云盘](https://pan.baidu.com/s/1AyJIJ98GeNvWY2ZLvKK7Zg ) \
-教学大纲
+教学大纲 \
 导论PPT
 
 
@@ -31,7 +31,7 @@
 * 教学材料 \
 参考教材： 庞皓《计量经济学》（第四版）[百度云盘](https://pan.baidu.com/s/1G0gDFehx8k21kq5JqhPDmQ) \
 参考教材：伍德里奇《计量经济学导论》（第6版）[百度云盘](https://pan.baidu.com/s/1sHV2eU_7M4SOCPGT_SYOjw) \
-教学大纲
+教学大纲 \
 导论PPT
 
 * 课堂笔记 

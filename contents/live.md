@@ -1,10 +1,9 @@
 
 #### SPSS专题
 * SPSS实操（上）：数据处理与统计描述 
-* SPSS实操（下）：主成分分析的基本原理与方法 
+* SPSS实操（下）：PCA基本原理与应用 
 
 #### STATA专题
-参考教材：计量经济学导论 [百度云盘](https://pan.baidu.com/s/1_hcmjP_QrbscxFQVfLIarw) \
 参考教材：高级计量经济学与stata应用 [百度云盘](https://pan.baidu.com/s/1wm6rop2ufB6QwlSRIajFNw) \
 课程材料： [百度云盘](https://pan.baidu.com/s/1zCEc7-hf-5_4D55hsCMVwg)
 * STATA实操（上）：OLS基本原理与基准回归 
