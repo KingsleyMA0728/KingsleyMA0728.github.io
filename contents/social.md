@@ -1,6 +1,7 @@
 #### 科研论文入门
 
-* <strong>研究选题与创新提炼</strong>
+* <strong>研究选题与创新提炼</strong> \
+
 课程简介： <br/>
 <span> &nbsp; </span> <span> &nbsp; </span> <span> &nbsp; </span> <span> &nbsp; </span>该课程介绍学术论文选题的一般性评价标准是什么？如何从自己的选题中提炼出让人眼前一亮的创新点？
 
