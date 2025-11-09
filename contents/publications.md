@@ -10,7 +10,7 @@
 
 * <strong>课堂笔记</strong>
 
-课堂笔记：[百度云盘](https://pan.baidu.com/s/1ttWk5P3a8vR2KS_b1bAqKA)
+2025版课堂笔记：[百度云盘](https://pan.baidu.com/s/1ttWk5P3a8vR2KS_b1bAqKA)
 
 * <strong>知识扩展</strong> 
 
@@ -25,7 +25,6 @@
 参考教材：曼昆《经济学原理》（宏观经济学分册）（第8版）[百度云盘](https://pan.baidu.com/s/1AyJIJ98GeNvWY2ZLvKK7Zg ) \
 教学大纲 \
 导论PPT
-
 
 * <strong>课堂笔记</strong> 
 
