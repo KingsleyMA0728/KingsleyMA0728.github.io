@@ -2,12 +2,15 @@
 
 * <strong>教学材料</strong>
 
-参考教材：马工程《西方经济学（第二版）》上册 [百度云盘](https://pan.baidu.com/s/106H3S2qKZEspJbGdIll1tw ) \
-参考教材：曼昆《经济学原理》（微观经济学分册）（第8版）[百度云盘](https://pan.baidu.com/s/1ldy6KQ08L_nxEcMso1UoKA ) \
-教学大纲: [百度云盘](https://pan.baidu.com/s/1C2XJDYCCRyiw7bm6iLNa4Q ) \
-导论PPT: [百度云盘](https://pan.baidu.com/s/1rfhWZWlbxxyrBRSGds8wig )
+参考教材：马工程《西方经济学（第二版）》上册 [百度云盘](https://pan.baidu.com/s/106H3S2qKZEspJbGdIll1tw) \
+参考教材：曼昆《经济学原理》（微观经济学分册）（第8版）[百度云盘](https://pan.baidu.com/s/1ldy6KQ08L_nxEcMso1UoKA) \
+教学大纲: [百度云盘](https://pan.baidu.com/s/1C2XJDYCCRyiw7bm6iLNa4Q) \
+课后作业答题纸：[百度云盘](https://pan.baidu.com/s/1eONfrsEcdns32pd2l2LAxg) \
+导论PPT: [百度云盘](https://pan.baidu.com/s/1rfhWZWlbxxyrBRSGds8wig)
 
 * <strong>课堂笔记</strong>
+
+课堂笔记：[百度云盘](https://pan.baidu.com/s/1ttWk5P3a8vR2KS_b1bAqKA)
 
 * <strong>知识扩展</strong> 
 
